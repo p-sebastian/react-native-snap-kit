@@ -1,4 +1,4 @@
-declare module 'react-native-snap-kit'
+declare module '@p-sebastian/react-native-snap-kit'
 export const SnapKit: SnapKitStatic
 export default SnapKit
 interface SnapKitStatic {
