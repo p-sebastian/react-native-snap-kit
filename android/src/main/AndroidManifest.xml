@@ -2,7 +2,8 @@
           package="ec.convini.snapkit">
     <application>
     <!-- Please put your client id here -->
-    <meta-data android:name="com.snapchat.kit.sdk.clientId" android:value="" />
+    <!-- Add line below in your project -->
+    <!-- <meta-data android:name="com.snapchat.kit.sdk.clientId" android:value="" /> -->
 
     <!-- See below in the next section for how to setup FileProvider -->
         <provider
