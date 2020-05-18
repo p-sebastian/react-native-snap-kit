@@ -1,7 +1,4 @@
-declare module '@p-sebastian/react-native-snap-kit'
-export const SnapKit: SnapKitStatic
-export default SnapKit
-interface SnapKitStatic {
+export declare interface SnapKitStatic {
   sendSticker(
     assetName: string,
     url: string,
@@ -9,3 +6,5 @@ interface SnapKitStatic {
     height: number
   ): Promise<null>
 }
+export const SnapKit: SnapKitStatic
+export default SnapKit
