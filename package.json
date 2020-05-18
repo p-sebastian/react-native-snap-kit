@@ -2,7 +2,7 @@
   "name": "react-native-snap-kit",
   "title": "React Native Snap Kit",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "sendSticker SnapChat android wrapper for react-native",
   "main": "index.js",
   "files": [
     "README.md",
